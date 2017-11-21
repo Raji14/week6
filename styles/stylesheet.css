@@ -89,10 +89,10 @@ section.maincontent {
  }
 
 h3 {
-color: #000;
-font-size: 1em;
-font-weight: 100;
-font-family: 'Open Sans', sans-serif; 
+  color: #000;
+  font-size: 1em;
+  font-weight: 100;
+  font-family: 'Open Sans', sans-serif; 
   margin: 0;
 }
 
@@ -109,8 +109,8 @@ font-family: 'Open Sans', sans-serif;
 }
 
 .dressmodule p {
-padding: 0;
-margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 .swatch {
@@ -144,36 +144,31 @@ margin: 0;
   height: 16px;
   border-radius: 12px;
   background-color: #702836;
-  
-} 
+}
 
 .black {
   width: 16px;
   height: 16px;
   border-radius: 12px;
   background-color: #000;
-  
-} 
+}
 .blue {
   width: 16px;
   height: 16px;
   border-radius: 12px;
   background-color: #0794cf;
-  
 } 
 .blue2 {
   width: 16px;
   height: 16px;
   border-radius: 12px;
   background-color: #1008b4;
-  
 } 
 .peach {
   width: 16px;
   height: 16px;
   border-radius: 12px;
   background-color: #e9bbbd;
-  
 } 
 .green {
    width: 16px;
@@ -186,35 +181,30 @@ margin: 0;
   height: 16px;
   border-radius: 12px;
   background-color: #f888f4;
- 
 }
 .red2 {
   width: 16px;
   height: 16px;
   border-radius: 12px;
   background-color: #b4081c;
-  
 }
 .orange {
   width: 16px;
   height: 16px;
   border-radius: 12px;
   background-color: #de610d;
- 
 }
 .nude {
   width: 16px;
   height: 15px;
   border-radius: 12px;
   background-color: #e0b4a7;
- 
 }
 .gray {
   width: 16px;
   height: 16px;
   border-radius: 12px;
   background-color: #dbdbdb;
-  
 }
 
 h5 {
@@ -247,17 +237,16 @@ footer {
 }
 footer section {
   width: 50%;
-  
 }
 .backtotop {
- text-align: right;
+  text-align: right;
   padding-right: 2em;
 }
 .backtotop a {
- text-decoration: none;
+  text-decoration: none;
 }
 .backtotop a:hover {
- text-decoration: none;
+  text-decoration: none;
 }
 a {
   text-decoration: none;
