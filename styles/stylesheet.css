@@ -322,3 +322,7 @@ form button {
 .smalltext {
   font-size: .75em;
 }
+h6 {
+  font-size: .75em;
+  margin:0;
+}
