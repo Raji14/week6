@@ -19,11 +19,10 @@ nav.mainnav {
 .primarynav {
   float: right;
   vertical-align: bottom;
+  padding: 1em 0;
 }
 .primarynav i {
- padding: .50em;
-  margin-top: .50em;
-  margin-bottom: 0;
+  padding: 0 .50em;
 }
 
 nav.mainnav li {
